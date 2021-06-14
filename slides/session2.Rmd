@@ -1,0 +1,131 @@
+---
+title: "GEOG5957 CAMS Dissertations: Finding data"
+author: "Roger Beecham"
+date: "Wed 16th Jun 2021"
+output:
+  xaringan::moon_reader:
+    css: [default, "slides-theme.css"]
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      slideNumberFormat: ''
+      titleSlideClass: [center, middle]
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(comment = "")
+library(tidyverse)
+library(here)
+library(knitr)
+library(kableExtra)
+```
+
+## Why a session dedicated to **data**?
+
+--
+.tiny-text[
+> Geography dissertations are **analytic** in nature, characterised by the application of spatial and statistical analysis techniques to analyse large-scale datasets.
+]
+--
+.tiny-text[
+> Geography dissertations are **secondary data analysis** projects, repurposing datasets that already exist.
+]
+--
+.tiny-text[
+> **CAMS** Geography dissertations are applied **data science** studies repurposing administrative, but also sometimes new, observational datasets.
+]
+
+
+
+???
+Data are important
+---
+
+## How to approach selecting **data**
+
+1. Look back at the datasets you have used in **taught sessions**
+
+2. Investigate some of the datasets suggested in the **dissertation module handbook** and during this session
+
+3. Think back to some of the datasets you have seen via your **personal social or academic networks**
+
+???
+
+Some dissertations present a coherent and interesting analysis using only a *single* dataset. Others combine several datasets.
+
+---
+
+## Different categories of open dataset
+
+1. Small area census and government data
+
+2. Open data portals
+
+3. Domain and dataset-specialised APIs
+
+???
+
+---
+
+## Small area census and government data
+
+* UK Census and survey data from [`nomisweb`](https://www.nomisweb.co.uk/), [`UK Data Service`](https://ukdataservice.ac.uk/)
+
+* US Census and survey data from [`US Census Bureau`](https://www.census.gov/), [`tidycensus`](https://walker-data.com/tidycensus/)
+
+???
+
+Demonstrate access via UK data service:
+Geog precision, variable selection
+
+---
+
+## Open data portals
+
+* UK:[`Data Mill North`](https://datamillnorth.org/dataset), [`OpenManchester`](http://open.manchester.gov.uk/), [`data.gov.uk`](https://data.gov.uk/)
+
+* Non-UK: [`data.melbourne`](https://data.melbourne.vic.gov.au/), [`opendata.cityofnewyork`](https://opendata.cityofnewyork.us/data/), [`data.gov.sg`](https://data.gov.sg/)
+
+---
+
+
+## Open data portals
+
+* UK:[`Data Mill North`](https://datamillnorth.org/dataset), [`OpenManchester`](http://open.manchester.gov.uk/), [`data.gov.uk`](https://data.gov.uk/)
+
+* Non-UK: [`data.melbourne`](https://data.melbourne.vic.gov.au/), [`opendata.cityofnewyork`](https://opendata.cityofnewyork.us/data/), [`data.gov.sg`](https://data.gov.sg/)
+
+---
+
+## Domain specific
+
+* Transport: [`stats19`](https://docs.ropensci.org/stats19/), [`TfL Open Data`](https://tfl.gov.uk/info-for/open-data-users/), [`bikedata`](https://docs.ropensci.org/bikedata/), [`moverment.uber`](https://movement.uber.com/?lang=en-GB), [`OpenFlights`](https://openflights.org/data.html)
+
+* Crime: [`data.police.uk`](https://data.police.uk/), [`ukpolice`](https://docs.evanodell.com/ukpolice/)
+
+* Health: [`covid-19 cases, deaths, vaccines`](https://coronavirus.data.gov.uk/details/download), [`covdata`](https://kjhealy.github.io/covdata/), [`covmobility`](https://kjhealy.github.io/covmobility/)
+
+* User-generated: [`yelp.com`](https://www.yelp.com/dataset), [`twitter API`](https://developer.twitter.com/en/docs/twitter-api)
+
+* Miscellany: [`awesome-public-datasets`](https://github.com/awesomedata/awesome-public-datasets)
+
+---
+
+## Demo
+
+* [`UK Data Service`](https://ukdataservice.ac.uk/)
+
+*  [`stats19`](https://docs.ropensci.org/stats19/)
+
+
+---
+
+## Class discussion
+
+
+--
+> Now that you've decided on an (approximate) theme for your dissertation, let's discuss ideas for potential datasets.
+--
