@@ -102,15 +102,6 @@ Geog precision, variable selection
 
 ---
 
-
-## Open data portals
-
-* UK:[`Data Mill North`](https://datamillnorth.org/dataset), [`OpenManchester`](http://open.manchester.gov.uk/), [`data.gov.uk`](https://data.gov.uk/)
-
-* Non-UK: [`data.melbourne`](https://data.melbourne.vic.gov.au/), [`opendata.cityofnewyork`](https://opendata.cityofnewyork.us/data/), [`data.gov.sg`](https://data.gov.sg/)
-
----
-
 ## Domain specific APIs
 
 * Transport: [`stats19`](https://docs.ropensci.org/stats19/), [`TfL Open Data`](https://tfl.gov.uk/info-for/open-data-users/), [`bikedata`](https://docs.ropensci.org/bikedata/), [`moverment.uber`](https://movement.uber.com/?lang=en-GB), [`OpenFlights`](https://openflights.org/data.html)
@@ -140,6 +131,8 @@ Geog precision, variable selection
 --
 > Now that you've decided on an (approximate) theme for your dissertation, let's discuss ideas for potential datasets.
 --
+
+
 
 .tiny-text[
 Instructions:
