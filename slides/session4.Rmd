@@ -1,0 +1,137 @@
+---
+title: "GEOG5957 CAMS Dissertations: Planning your dissertation"
+author: "Roger Beecham"
+date: "Wed 30th Jun 2021"
+output:
+  xaringan::moon_reader:
+    css: [default, "slides-theme.css"]
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      slideNumberFormat: ''
+      titleSlideClass: [center, middle]
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(comment = "")
+library(tidyverse)
+library(here)
+library(knitr)
+library(kableExtra)
+```
+
+## CAMS Dissertations
+
+<!-- |    |                                              |
+|-------------|--------------------------------------------------------------|
+| Important   | .small-font[Worth 20 credits]                                             |
+| Interesting | .small-font[Chance to study something that matters to you]                |
+| Independent | .small-font[Opportunity to work on substantive piece of work on your own] |
+| Initiative  | .small-font[Led by you]                                                   | -->
+
+
+* **Important**  | .small-font[Worth 20 credits]
+
+* **Interesting** | .small-font[Chance to study something that matters to you]
+
+* **Independent** | .small-font[Opportunity to work on substantive piece of work on your own]
+
+* **Initiative**  | .small-font[Led by you]
+---
+
+## CAMS Dissertations
+
+1. Selecting a topic
+
+2. Finding data
+
+3. Finding literature
+
+4. **Planning your dissertation**
+
+---
+
+## Process
+
+.small-font[
+* You have been allocated a **supervisor** who will be able to provide advice and suggestions. You will usually meet with them 4 – 6 times during your research.
+
+* You will submit a **1-page research plan** on **Thursday 15th Jul**, e-mailed to supervisors.
+
+* You will receive oral feedback on your research plan in **early August**.
+
+* Most of your research will be carried out over the late summer/early autumn (August – October) and must be completed independently.
+
+* Submit your final dissertation on **Thursday 4th November before 2pm**.
+
+* The **maximum word limit** for your dissertation is 12,000 words, many may be considerably shorter than this.
+]
+
+
+---
+
+## Next steps
+
+.small-font[
+* You need to contact your supervisor for your **single** meeting with them before you hand in your 1-page dissertation plan.
+
+* You should then prepare your dissertation plan, submit it **via e-mail to your supervisor on Thursday 15th July**.
+
+
+* You should receive feedback on your dissertation plan via a meeting and have three meetings with your supervisor to:
+  + Discuss data preparation, lit review and methods
+  + Troubleshoot analysis and discuss outputs
+  + Discuss findings and write-up
+
+* Aim to complete your write-up in mid/end-October to allow time to proof read and edit.
+]
+
+---
+
+## Getting help and support
+
+.small-font[
+* Your **dissertation supervisor is your primary contact** and you should deal directly with them for support and advice.
+
+* Roger (`r.j.beecham@leeds.ac.uk`) manages the dissertation module and so you should contact him with administrative queries or issues that you have not been able to resolve with your supervisor.
+
+* Claire Gorner (`c.gorner@leeds.ac.uk`) in the Geography Student Support Office is your contact for any personal issues affecting your progress or for deadline extensions.
+]
+
+---
+## Supervisors
+
+.small-font[
+> Your **dissertation supervisor is your primary contact** and you should deal directly with them for support and advice.
+>
+> But: You must take initiative to develop and manage your dissertation.
+>
+> Note: Supervisors are there for guidance and advice but you lead your individual projects.
+]
+
+---
+
+
+## 1-page dissertation plan
+
+.small-font[
+
+1. **Title** | Likely this will change
+
+2. **Research questions / aims** | What you hope to achieve
+
+3. **Research tasks** | The activities/steps you will take to achieve your aims
+
+4. **Why this topic is interesting, relevant, topical**
+  + Why this topic interests you
+  + Academic interest in the topic area -- with some appropriate academic literature
+  + Only if appropriate, the wider commercial or public interest in the topic
+
+5. **Methods** | Include high-level details
+  + List and describe datasets: how collected, size, geographic scale, temporal coverage
+  + Tools/techniques/methods/software you will use to analyse your data -- how and why
+  + Address how these will help engage with research aims
+]
