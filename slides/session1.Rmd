@@ -1,0 +1,154 @@
+---
+title: "GEOG5957 CAMS Dissertations: Choosing a topic"
+author: "Roger Beecham"
+date: "Wed 9th Feb 2022"
+output:
+  xaringan::moon_reader:
+    css: [default, "slides-theme.css"]
+    lib_dir: libs
+    nature:
+      ratio: '16:9'
+      highlightStyle: github
+      highlightLines: true
+      slideNumberFormat: ''
+      titleSlideClass: [center, middle]
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(comment = "")
+library(tidyverse)
+library(here)
+library(knitr)
+library(kableExtra)
+```
+
+## CAMS Geography Dissertations
+
+<!-- |    |                                              |
+|-------------|--------------------------------------------------------------|
+| Important   | .small-font[Worth 20 credits]                                             |
+| Interesting | .small-font[Chance to study something that matters to you]                |
+| Independent | .small-font[Opportunity to work on substantive piece of work on your own] |
+| Initiative  | .small-font[Led by you]                                                   | -->
+
+
+* **Important**  | .small-font[Worth 20 credits]
+
+* **Interesting** | .small-font[Chance to study something that matters to you]
+
+* **Independent** | .small-font[Opportunity to work on substantive piece of work on your own]
+
+* **Initiative**  | .small-font[Led by you]
+---
+
+## CAMS Geography Dissertations
+
+* Module leader: Roger Beecham | Module team: Various
+
+* Four briefing sessions:
+  + 9th Feb -- Choosing a dissertation topic
+  + 16th Feb -- Finding data for a dissertation
+  + 23rd Feb -- Finding literature for a dissertation
+  + 2nd Mar -- Planning a dissertation
+
+* E-mail `r.j.beecham@leeds.ac.uk` with your broad dissertation theme by **Friday 18th Feb** (20-30 words max)
+---
+
+## CAMS Geography Dissertations
+
+--
+.small-text[
+> Involves some form of **spatial analysis** linked to any of the topics covered in the lectures and practical classes.
+]
+--
+.tiny-text[
+> Is **analytic** in nature, using any of the methods, tools and techniques covered in your Geography modules
+]
+--
+.tiny-text[
+> Uses **secondary data** from any of the broad type of sources that we have introduced.
+]
+--
+.tiny-text[
+> Represents a substantial piece of **academic research**, but can be carried out with input from a company or other external organisation.
+]
+
+---
+
+## Areas of focus: technical and thematic
+
+.pull-left[.small-font[**Techniques** <br>
+* Spatial pattern analysis
+* Time series analysis
+* Network analysis
+* Machine Learning
+  + regression, decision trees, clustering
+* Empirical modelling
+  + ABMs/microsimulation
+* Data visualisation
+]]
+
+.pull-right[.small-font[**Themes** <br>
+* Demographics
+* Housing markets
+* Consumer analytics/profiling
+* Network planning
+* Targeted marketing / Response modelling
+* Inequalities and accessibility
+]]
+
+
+???
+Also technology : R, Python, others
+
+---
+
+## How to come up with an idea
+
+.small-font[
+* Identify [aspects of the course](https://minerva.leeds.ac.uk/ultra/courses/_533806_1/cl/outline) that have **interested you** and some of the readings that you have undertaken.  Are there aspects that you’d be able and **want to develop further**?
+]
+--
+.small-font[
+* Note some of the **[methods and technologies](https://www.tidymodels.org/)** used -- could you apply these to a different study area or a slightly different problem?
+]
+--
+.small-font[
+* Is there an **[interesting dataset](https://movement.uber.com/?lang=en-GB)** that you’d like to explore further?
+]
+--
+.small-font[
+* Is there a **[particular issue](https://www.theguardian.com/society/2019/jan/28/improving-uk-cycling-rates-could-save-nhs-319m-says-report)** related to your home country or your previous study/employment that you could focus on.
+]
+--
+.small-font[
+* Have you read a research paper that [especially interested you](https://link.springer.com/article/10.1007/s12061-020-09347-2) -- could you carry out a similar study with some related data for Leeds/UK/home country?
+]
+
+
+???
+Pick interesting paper/study/analysis read?
+
+---
+## Dissertation ideas from Big Data module
+
+
+---
+
+## Before next week's briefing
+
+.small-font[
+Determine your broad dissertation topic, then consider:
+
+* Is it linked to the objectives of my programme of study?
+
+* Do I have sufficient interest in this topic to study it for the next 6 months?
+
+* Do I have the necessary skills?
+
+* Is sufficient data available and have I got access to it?
+
+* Is there some relevant academic literature?
+
+]
