@@ -107,3 +107,24 @@ Pick interesting paper/study/analysis read?
 * Projects may be data-driven but **must be spatial in nature** and clearly related to academic and/or industry literature.
 
 * Chance to work with new and exciting spatial data and apply advanced techniques that you've learnt 'in the trenches'
+
+---
+
+## CAMS Geography Dissertations
+
+<!-- |    |                                              |
+|-------------|--------------------------------------------------------------|
+| Important   | .small-font[Worth 30 credits]                                             |
+| Interesting | .small-font[Chance to study something that matters to you]                |
+| Independent | .small-font[Opportunity to work on substantive piece of work on your own] |
+| Initiative  | .small-font[Led by you]                                                   | -->
+
+
+* **Important**  | .small-font[Worth 30 credits]
+
+* **Interesting** | .small-font[Chance to study something that matters to you]
+
+* **Independent** | .small-font[Opportunity to work on substantive piece of work on your own]
+
+* **Initiative**  | .small-font[Led by you]
+---

@@ -27,13 +27,13 @@ library(kableExtra)
 
 <!-- |    |                                              |
 |-------------|--------------------------------------------------------------|
-| Important   | .small-font[Worth 20 credits]                                             |
+| Important   | .small-font[Worth 30 credits]                                             |
 | Interesting | .small-font[Chance to study something that matters to you]                |
 | Independent | .small-font[Opportunity to work on substantive piece of work on your own] |
 | Initiative  | .small-font[Led by you]                                                   | -->
 
 
-* **Important**  | .small-font[Worth 20 credits]
+* **Important**  | .small-font[Worth 30 credits]
 
 * **Interesting** | .small-font[Chance to study something that matters to you]
 
