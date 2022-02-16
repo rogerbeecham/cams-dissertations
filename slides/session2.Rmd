@@ -1,7 +1,7 @@
 ---
 title: "GEOG5957 CAMS Dissertations: Finding data"
 author: "Roger Beecham"
-date: "Wed 16th Jun 2021"
+date: "Wed 16th Feb 2022"
 output:
   xaringan::moon_reader:
     css: [default, "slides-theme.css"]
@@ -129,7 +129,7 @@ Geog precision, variable selection
 
 
 --
-> Now that you've decided on an (approximate) theme for your dissertation, let's discuss ideas for potential datasets.
+> You may have an (approximate) theme for your dissertation, let's discuss ideas for potential datasets.
 --
 
 
